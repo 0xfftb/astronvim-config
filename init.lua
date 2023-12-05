@@ -1,6 +1,6 @@
 return {
 
-    colorscheme = "ayu",
+    colorscheme = "catppuccin-frappe",
 
     -- Configure AstroNvim updates
     updater = {
